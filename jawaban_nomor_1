@@ -1,7 +1,11 @@
->?php
-$nama_jurusan_alamat = "heri_agus_sasriadi,sistem_informasi,sambelia";
+<?php
+    $nama = "heri agus sasriadi";
+    $jurusan = "sistem informasi";
+    $alamat = "Mekar mulia desa sambelia";
 
-echo $nama_jurusan_alamat;
+    echo $nama;
+    echo $jurusan;
+    echo $alamat;
 
 
 ?>
