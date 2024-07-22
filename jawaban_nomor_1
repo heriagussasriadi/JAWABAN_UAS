@@ -1,0 +1,7 @@
+>?php
+$nama_jurusan_alamat = "heri_agus_sasriadi,sistem_informasi,sambelia";
+
+echo $nama_jurusan_alamat;
+
+
+?>
