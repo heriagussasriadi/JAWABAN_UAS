@@ -1,0 +1,12 @@
+<?php
+function tambah($nilai1, $nilai2) {
+
+    return $nilai1 + $nilai2;
+
+}
+
+// Contoh penggunaan fungsi
+
+$hasil = tambah(5, 3);
+
+echo "Hasil penjumlahan: $hasil";

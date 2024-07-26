@@ -1,11 +1,17 @@
 <?php
-    $nama = "heri agus sasriadi";
-    $jurusan = "sistem informasi";
-    $alamat = "Mekar mulia desa sambelia";
+    $Nama = "heri agus sasriadi";
 
-    echo $nama;
-    echo $jurusan;
-    echo $alamat;
-
+    $Jurusan = "sistem informatika";
+    
+    $Alamat = "Dusun Mekar Mulia Desa Sambalia";
+    
+    
+    // Mencetak nilai variabel
+    
+    echo "Nama: $Nama<br>";
+    
+    echo "Jurusan: $Jurusan<br>";
+    
+    echo "Alamat: $Alamat<br>";
 
 ?>
